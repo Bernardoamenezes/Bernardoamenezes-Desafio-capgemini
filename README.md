@@ -2,9 +2,6 @@
 <p>O objetivo dessa etapa é testar os conhecimentos em lógica de programação. Para isso, preparamos três questões com diferentes níveis de dificuldade.</p>
 <p align = 'center'>Para rodar a resolução das questões, é necessario ter o pacote python (caso não tenha) 
 
-Executei o programa dentro do servidor Replit, opção ->Executar </p>
-(https://replit.com/@Paloma14sir)
-
 <p><ul>
 <li> Questão01 -
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
